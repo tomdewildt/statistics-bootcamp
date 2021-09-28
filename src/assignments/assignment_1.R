@@ -41,7 +41,7 @@ mod_5 <- lm(advice ~ activity_preference * conscientiousness +
 summary(mod_5)
 
 ## 4. Look at the diagnostic plots to check for anything fishy.
-par(mfrow=c(2, 2))
+par(mfrow = c(2, 2))
 plot(mod_1)
 plot(mod_2)
 plot(mod_3)
