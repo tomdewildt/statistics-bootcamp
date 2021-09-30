@@ -109,15 +109,15 @@
     },
     "bootcamp2021": {
       "Package": "bootcamp2021",
-      "Version": "0.00.3",
+      "Version": "0.00.4",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "SNAnalyst",
       "RemoteRepo": "bootcamp_2021",
       "RemoteRef": "master",
-      "RemoteSha": "15046cffde17174660b56f620217628ff1e6337e",
-      "Hash": "a9763c60ceef920f43d0215e00d2adea"
+      "RemoteSha": "c1c08464072d527f153a6870bc594972eb87ca96",
+      "Hash": "3880132b59437fe6eaf79b2398c9d1a3"
     },
     "brio": {
       "Package": "brio",
@@ -448,10 +448,10 @@
     },
     "lattice": {
       "Package": "lattice",
-      "Version": "0.20-44",
+      "Version": "0.20-45",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "f36bf1a849d9106dc2af72e501f9de41"
+      "Hash": "b64cdbb2b340437c4ee047a1f4c4377b"
     },
     "lazyeval": {
       "Package": "lazyeval",
