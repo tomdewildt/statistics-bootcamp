@@ -47,9 +47,9 @@ data(loans, package = "bootcamp2021")
 ## 2. Pick a handful of variables that are interesting to you and might be
 ##    related to each other.
 
-### annual_income, total_credit_limit, total_debit_limit, tax_liens, 
+### annual_income, total_credit_limit, total_debit_limit, tax_liens,
 ### public_record_bankrupt
-loans_small <- loans[ , c(5, 17, 31, 37, 38)]
+loans_small <- loans[, c(5, 17, 31, 37, 38)]
 
 ## 3. Explore the variables; look at the FiveNumber Summary, calculate
 ##    descriptive measures, calculate correlations, make informative plots,
