@@ -1,5 +1,5 @@
 # Statistics Bootcamp
-[![Build](https://img.shields.io/github/workflow/status/tomdewildt/statistics-bootcamp/ci/master)](https://github.com/tomdewildt/statistics-bootcamp/actions?query=workflow%3Aci)
+[![Build](https://img.shields.io/github/actions/workflow/status/tomdewildt/statistics-bootcamp/ci.yml?branch=master)](https://github.com/tomdewildt/statistics-bootcamp/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/statistics-bootcamp)](https://github.com/tomdewildt/statistics-bootcamp/blob/master/LICENSE)
 
 Code for The Statistics Bootcamp course of my master's degree.
